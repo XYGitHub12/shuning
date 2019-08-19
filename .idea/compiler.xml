@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sn-common" />
+        <module name="sn-manager-dao" />
+        <module name="sn-manager-interface" />
+        <module name="sn-manager-pojo" />
+        <module name="sn-manager-service" />
+        <module name="sn-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sn-common" target="1.8" />
+      <module name="sn-interface" target="1.8" />
+      <module name="sn-manager" target="1.8" />
+      <module name="sn-manager-dao" target="1.8" />
+      <module name="sn-manager-interface" target="1.8" />
+      <module name="sn-manager-pojo" target="1.8" />
+      <module name="sn-manager-service" target="1.8" />
+      <module name="sn-manager-web" target="1.8" />
+      <module name="sn-parent" target="1.8" />
+      <module name="sn-pojo" target="1.8" />
+      <module name="sn-potal" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

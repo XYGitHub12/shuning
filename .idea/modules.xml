@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sn-common/sn-common.iml" filepath="$PROJECT_DIR$/sn-common/sn-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-manager/sn-manager.iml" filepath="$PROJECT_DIR$/sn-manager/sn-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-manager/sn-manager-dao/sn-manager-dao.iml" filepath="$PROJECT_DIR$/sn-manager/sn-manager-dao/sn-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-manager/sn-manager-interface/sn-manager-interface.iml" filepath="$PROJECT_DIR$/sn-manager/sn-manager-interface/sn-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-manager/sn-manager-pojo/sn-manager-pojo.iml" filepath="$PROJECT_DIR$/sn-manager/sn-manager-pojo/sn-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-manager/sn-manager-service/sn-manager-service.iml" filepath="$PROJECT_DIR$/sn-manager/sn-manager-service/sn-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-manager/sn-manager-web/sn-manager-web.iml" filepath="$PROJECT_DIR$/sn-manager/sn-manager-web/sn-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-parent/sn-parent.iml" filepath="$PROJECT_DIR$/sn-parent/sn-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-potal/sn-potal.iml" filepath="$PROJECT_DIR$/sn-potal/sn-potal.iml" />
+    </modules>
+  </component>
+</project>
